@@ -21,8 +21,6 @@ Students analyze **internal program logic**, verify **decision structures**, and
 
 White-box testing enables testers to inspect **how the program works internally**, not only what it produces externally.
 
----
-
 ## 🎯 Learning Outcomes
 
 By completing this practical session students can:
@@ -35,12 +33,9 @@ By completing this practical session students can:
 ✔ Test modules and functions independently
 ✔ Understand Gray-Box testing fundamentals
 
----
-
 ## 📂 Repository Structure
 
 <img width="412" height="599" alt="image" src="https://github.com/user-attachments/assets/3b0b5f12-fce1-443b-b002-cf51debe9d5e" />
-
 
 Each folder demonstrates a **different internal logic testing scenario**.
 
@@ -56,8 +51,6 @@ Students reviewed code without execution:
 * defensive coding
 * specification alignment
 
----
-
 ### 🧪 Unit Logic Testing
 
 Examples demonstrate testing:
@@ -68,15 +61,12 @@ PASS
 else
 FAIL
 ```
-
 Students verify:
 
 ✔ true branch
 ✔ false branch
 ✔ boundary values
 ✔ invalid input
-
----
 
 ### 📊 Code Coverage Techniques
 
@@ -118,8 +108,6 @@ Students test:
 ✔ multiple decisions
 ✔ nested logic paths
 
----
-
 ## ⚙ Technologies Used
 
 | Tool          | Purpose                      |
@@ -130,7 +118,6 @@ Students test:
 | GitHub        | Version control              |
 | Console Apps  | Logic testing demonstrations |
 
----
 
 ## 🧩 Gray-Box Testing Concept
 
@@ -159,5 +146,7 @@ Follow console prompts.
 
 **Lusukama Selemani**
 Microsoft Certified Trainer (MCT)
+
 Software Development Facilitator
+
 Azure • DevOps • C# • Software Testing
