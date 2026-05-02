@@ -10,4 +10,5 @@
   <Project Path="Example-8-Week-4/Example-8-Week-4.csproj" />
   <Project Path="Example-9-Week-4/Example-9-Week-4.csproj" />
   <Project Path="Example1-week4/Example1-week4.csproj" />
+  <Project Path="StudentResultWhiteBoxTesting/StudentResultWhiteBoxTesting.csproj" Id="76e068e0-0c20-45cc-b69d-7f809150fb5d" />
 </Solution>
