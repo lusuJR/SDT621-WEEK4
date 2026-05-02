@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StudentResultWhiteBoxTesting
 {
-    class StudentProcessor : IResultValidator, IResultCalculator, IGradeCalculator
+    sealed class StudentProcessor : IResultValidator, IResultCalculator, IGradeCalculator
     {
         public bool ValidateMark(int mark)
         {

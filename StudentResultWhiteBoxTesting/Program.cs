@@ -1,7 +1,22 @@
-﻿using StudentResultWhiteBoxTesting;
+﻿
+/*
+Student Result Processing System Using Multiple Interfaces
+Learning Objective
+
+Students must:
+
+implement multiple interfaces
+test separate logic modules
+perform white-box testing
+identify logic defects
+correct incorrect conditions
+produce test evidence
+ 
+  */
+
 using System;
 
-namespace StudentResultSystem
+namespace StudentResultWhiteBoxTesting
 {
 
     class Program
@@ -36,7 +51,7 @@ namespace StudentResultSystem
                 }
 
                 Console.Write("\nDo you want to enter another mark? (Y/N): ");
-                string choice = Console.ReadLine().ToUpper();
+                string choice = Console.ReadLine()!.ToUpper();
 
                 if (choice != "Y")
                 {

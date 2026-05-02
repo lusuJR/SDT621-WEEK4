@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StudentResultWhiteBoxTesting
 {
-    interface IResultValidator
+    internal interface IResultValidator
     {
         bool ValidateMark(int mark);
     }

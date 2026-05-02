@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StudentResultWhiteBoxTesting
 {
-    interface IGradeCalculator
+    internal interface IGradeCalculator
     {
         string AssignGrade(int mark);
     }
