@@ -1,15 +1,11 @@
 # 🧪 SDT621 – Week 4
-
-## White-Box Functional Testing (C# Practical Repository)
-
+## White-Box Functional Testing
 ![C#](https://img.shields.io/badge/Language-C%23-purple)
 ![.NET](https://img.shields.io/badge/Framework-.NET-blue)
 ![Testing](https://img.shields.io/badge/Testing-White--Box-green)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91)
 ![Level](https://img.shields.io/badge/Module-SDT621-orange)
 ![Focus](https://img.shields.io/badge/Focus-Code%20Coverage-red)
-
----
 
 ## 📚 Overview
 
@@ -81,8 +77,6 @@ Coverage measured during practical exercises:
 | Loop Coverage      | Validate repetitions    |
 | Parameter Coverage | Test input combinations |
 
----
-
 ## 🧪 Practical Example Included
 
 ### 🎓 Student Result Analyzer
@@ -143,7 +137,6 @@ Build → Run
 Follow console prompts.
 
 ## 👨‍🏫 Lecturer
-
 **Lusukama Selemani**
 Microsoft Certified Trainer (MCT)
 
