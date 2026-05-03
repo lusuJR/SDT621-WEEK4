@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="Demo-1/Demo-1.csproj" Id="307414bb-9f27-4f19-b349-e8134eacc32b" />
+  <Project Path="Demo-2/Demo-2.csproj" Id="07039193-5dbb-44dd-8200-bb116edd0c03" />
+  <Project Path="Demo-3-ATM-System/Demo-3-ATM-System.csproj" Id="f4637617-a788-46d6-b8f2-55b973224361" />
   <Project Path="Example-10-Week-4/Example-10-Week-4.csproj" />
   <Project Path="Example-11-Week-4/Example-11-Week-4.csproj" />
   <Project Path="Example-2-Week-4/Example-2-Week-4.csproj" />
