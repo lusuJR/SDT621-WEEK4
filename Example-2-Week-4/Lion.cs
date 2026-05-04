@@ -6,12 +6,12 @@ namespace Example_2_Week_4
 {
     class Lion : Animal
     {
-        public Lion(string name) : base(name) { }
+        public Lion(string name, int age) : base(name, age) { }
 
         // override method
         public override void MakeSound()
         {
-            Console.WriteLine($"{Name} roars loudly.");
+            Console.WriteLine($"{Name} and {Age} roars loudly.");
         }
     }
 }
