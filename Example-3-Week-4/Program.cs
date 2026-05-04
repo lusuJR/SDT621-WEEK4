@@ -15,7 +15,7 @@ namespace Example_2_Week_4
             Console.WriteLine($"Student Name: {student.Name}"); // public allowed
 
             //Console.WriteLine(student.Age);  Not allowed (private)
-            //Console.WriteLine(student.Nationality);  Not allowed (protected)
+            //Console.WriteLine(student.Nationality);
 
             Console.ReadLine();
         }

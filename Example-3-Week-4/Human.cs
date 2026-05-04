@@ -17,11 +17,13 @@ namespace Example_3_Week_4
             Age = age;
             Nationality = nationality;
         }
-
+            
         public void DisplayBasicInfo()
         {
             Console.WriteLine($"Name: {Name}");
             Console.WriteLine($"Age: {Age}");
+            Console.WriteLine($"Nationality: {Nationality}");
+            Console.WriteLine($"Country: {Country}");
         }
     }
 }

@@ -16,7 +16,7 @@ namespace Example_3_Week_4
             Console.WriteLine($"Nationality: {Nationality}"); // allowed (protected)
             Console.WriteLine($"Country: {Country}");         // allowed (internal)
 
-            // Console.WriteLine(Age);  Not allowed (private)
+            //Console.WriteLine(Age); 
         }
     }
 }
