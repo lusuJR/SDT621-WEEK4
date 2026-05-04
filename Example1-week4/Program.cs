@@ -4,23 +4,27 @@
 namespace Example1_week4
 {
     // Base class
-    class Vehicle
-    {
-        public string Make = "Toyota";
-        public void Start()
-        {
-            Console.WriteLine("Your car starting....");
-        }
-    }
+    //class Vehicle
+    //{
+    //    public string Make = "Toyota";
+    //    public string Color = "Red";
+    //    public void Start()
+    //    {
+    //        Console.WriteLine("Your car starting....");
+    //    }
+
+    //    public void Turn()
+    //    {
+    //        Console.WriteLine("Your car turning....");
+    //    }
+
+
+    //}
     // Derived class
-    class Car : Vehicle
-    {
-        public string Model = "Corolla";
-        public void DisplayInfo()
-        {
-            Console.WriteLine($"Make: {Make}, Model: {Model}");
-        }
-    }
+    //class Car : Vehicle
+    //{
+        
+    //}
 
     class Program
     {
@@ -30,6 +34,8 @@ namespace Example1_week4
             Car myCar = new Car();
             // Access base class method
             myCar.Start();
+
+            myCar.Turn();
             // Access derived class method
             myCar.DisplayInfo();
 
